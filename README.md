@@ -12,5 +12,5 @@
 * Cleaned the data using Pandas.
 * Visualized how the number of repeated birthdays changes as the group changes in size by using Excel.
 
-**Link to Python code**. <br>
-**Link to Excel workbook**.
+**Link to [Python code](https://github.com/vanessa-guzman/Birthday_Paradox/blob/main/Birthday_Paradox.ipynb)**. <br>
+**Link to [Excel workbook](https://github.com/vanessa-guzman/Birthday_Paradox/blob/main/NBA_PLAYERS.xlsx)**.
